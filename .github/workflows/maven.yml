@@ -1,4 +1,6 @@
-name: project cicd flow
+name: ProductService Workflow - Maven
+
+# Just Change
 
 on:
   push:
